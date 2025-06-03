@@ -2,7 +2,7 @@ A bot was created using Google Apps Script to send automated alerts when backlog
 
 Result:
 The message was successfully posted to Seatalk, tagging the relevant person and including detailed breakdowns.
-![Bot Alert Performance Result](./assets/Bot alert performance result_final.png)
+![Bot Alert](./assets/Bot%20alert%20performance%20result_final.png)
 
 Tech used:
 Google Apps Script
